@@ -1,0 +1,1099 @@
+airo:Incident1
+airo:is_applied_within_domain "Cybersecurity" ;
+airo:has_purpose "Conducting cyberattacks" ;
+airo:has_capability "Improving cyberattack techniques" ;
+airo:uses_technique "ChatGPT" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Improved cyberattacks by nation state hackers" ;
+airo:has_consequence "Offensive cyber operations across the world" ;
+airo:has_impact "" ;
+airo:has_stakeholder "Targets of cyberattacks" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "OpenAI" ;
+airo:is_used_by "China, Iran, Russia, North Korea" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "high" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident2
+airo:is_applied_within_domain "Agriculture" ;
+airo:has_purpose "Lifting boxes" ;
+airo:has_capability "Lifting boxes" ;
+airo:uses_technique "Robotic arm with tongs" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Mistaking humans for objects" ;
+airo:has_consequence "Death of worker" ;
+airo:has_impact "Raised questions about safety and working practices" ;
+airo:has_stakeholder "Agricultural complex workers" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "" ;
+airo:is_used_by "Donggoseong Export Agricultural Complex" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "low" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident3
+airo:is_applied_within_domain "Autonomous vehicles" ;
+airo:has_purpose "Driving assistance" ;
+airo:has_capability "Full Self-Driving" ;
+airo:uses_technique "Machine learning" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Crashes due to driver misuse" ;
+airo:has_consequence "Death and injury" ;
+airo:has_impact "Accusations of misleading marketing" ;
+airo:has_stakeholder "Tesla customers" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Tesla" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "low" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident4
+airo:is_applied_within_domain "Customer service" ;
+airo:has_purpose "Providing information to customers" ;
+airo:has_capability "Answering customer questions" ;
+airo:uses_technique "Chatbot" ;
+airo:produces_output "Inaccurate information" ;
+airo:has_component "" ;
+airo:has_risk "moderate risk" ;
+airo:is_risk_source_for "Providing inaccurate information" ;
+airo:has_consequence "Customer incurred financial loss" ;
+airo:has_impact "Legal liability for chatbot outputs" ;
+airo:has_stakeholder "Air Canada customers" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Air Canada" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "low" ;
+airo:has_likelihood "moderate" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident5
+airo:is_applied_within_domain "Children's toys" ;
+airo:has_purpose "Providing interactive play for children" ;
+airo:has_capability "Storing audio recordings in the cloud" ;
+airo:uses_technique "WiFi connectivity, voice recognition" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Hacking of system" ;
+airo:has_consequence "Potential to identify and locate children" ;
+airo:has_impact "Privacy concerns" ;
+airo:has_stakeholder "Children, parents" ;
+airo:mitigation "Patch vulnerability" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Mattel, ToyTalk" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "moderate" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident6
+airo:is_applied_within_domain "Children's toys" ;
+airo:has_purpose "Interactive play" ;
+airo:has_capability "Two-way conversation with children" ;
+airo:uses_technique "Voice recognition, progressive learning" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Commercial exploitation of children's data" ;
+airo:has_consequence "Exposure of children to data exploitation" ;
+airo:has_impact "Concerns about algorithms replacing human interaction" ;
+airo:has_stakeholder "Children, parents, childhood experts" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Mattel, ToyTalk" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "moderate" ;
+airo:has_likelihood "high" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident7
+airo:is_applied_within_domain "Education" ;
+airo:has_purpose "Proctoring exams" ;
+airo:has_capability "Monitoring students taking exams" ;
+airo:uses_technique "Machine learning, facial detection" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Inaccessibility for students with disabilities" ;
+airo:has_consequence "Inability of some students to use the service" ;
+airo:has_impact "Student outcry over privacy and security" ;
+airo:has_stakeholder "University students" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Proctorio" ;
+airo:is_used_by "University of Illinois Urbana-Champaign" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "moderate" ;
+airo:has_likelihood "high" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident8
+airo:is_applied_within_domain "Voice synthesis" ;
+airo:has_purpose "Generating synthetic voices" ;
+airo:has_capability "Imitating voices" ;
+airo:uses_technique "Machine learning" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Unauthorized use of voice likeness" ;
+airo:has_consequence "Loss of control over voice, potential loss of earnings" ;
+airo:has_impact "Concerns about impact on livelihoods of creatives" ;
+airo:has_stakeholder "Voice actors" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "IBM" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "high" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident9
+airo:is_applied_within_domain "Audiobook narration" ;
+airo:has_purpose "Generating AI audiobooks" ;
+airo:has_capability "Imitating voices" ;
+airo:uses_technique "Machine learning" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Unauthorized use of voice data" ;
+airo:has_consequence "Training AI replacements without consent" ;
+airo:has_impact "Concerns about fair compensation" ;
+airo:has_stakeholder "Audiobook narrators, authors" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Apple" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "high" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident10
+airo:is_applied_within_domain "Autonomous vehicles" ;
+airo:has_purpose "Driverless taxi service" ;
+airo:has_capability "Autonomous driving" ;
+airo:uses_technique "Machine learning, sensors" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Collisions with other road users" ;
+airo:has_consequence "Injury to cyclist" ;
+airo:has_impact "Questions about accuracy and safety of self-driving system" ;
+airo:has_stakeholder "Cyclists, passengers" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Waymo" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "moderate" ;
+airo:has_likelihood "low" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident11
+airo:is_applied_within_domain "E-commerce" ;
+airo:has_purpose "Recommending products to shoppers" ;
+airo:has_capability "Identifying best-priced items" ;
+airo:uses_technique "Buy Box algorithm" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Steering shoppers to higher-priced items" ;
+airo:has_consequence "Shoppers overcharged" ;
+airo:has_impact "Accusations of violating consumer protection" ;
+airo:has_stakeholder "Amazon shoppers" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Amazon" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "moderate" ;
+airo:has_likelihood "high" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident12
+airo:is_applied_within_domain "Publishing" ;
+airo:has_purpose "Generating book content" ;
+airo:has_capability "Writing biographies" ;
+airo:uses_technique "Language models" ;
+airo:produces_output "Fake biographies" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Generating false information" ;
+airo:has_consequence "Spread of misinformation about public figures" ;
+airo:has_impact "Accusations of invading privacy, calls for better content moderation" ;
+airo:has_stakeholder "Book readers, public figures" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Amazon" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "moderate" ;
+airo:has_likelihood "high" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident13
+airo:is_applied_within_domain "Education" ;
+airo:has_purpose "Monitoring student behavior" ;
+airo:has_capability "Detecting vaping and unruly behavior" ;
+airo:uses_technique "Sensors, machine learning" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Covert surveillance of students" ;
+airo:has_consequence "Violation of student privacy" ;
+airo:has_impact "Concerns from privacy advocates" ;
+airo:has_stakeholder "Students, parents" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Triton" ;
+airo:is_used_by "UK schools" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "high" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident14
+airo:is_applied_within_domain "Legal" ;
+airo:has_purpose "Assisting with legal research" ;
+airo:has_capability "Generating case citations" ;
+airo:uses_technique "Language model" ;
+airo:produces_output "Fake case citations" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Generating fake case citations" ;
+airo:has_consequence "Lawyer facing possible sanctions" ;
+airo:has_impact "Concerns about misuse of AI in legal cases" ;
+airo:has_stakeholder "Lawyers, courts" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "OpenAI" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "low" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident15
+airo:is_applied_within_domain "Finance" ;
+airo:has_purpose "Attracting investors" ;
+airo:has_capability "Promising high returns" ;
+airo:uses_technique "Fraudulent claims of AI and machine learning" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Defrauding investors" ;
+airo:has_consequence "Investors losing significant sums" ;
+airo:has_impact "SEC crackdown on AI fraud" ;
+airo:has_stakeholder "Investors" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "American Bitcoin Academy" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "low" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident16
+airo:is_applied_within_domain "Conversational AI" ;
+airo:has_purpose "Engaging in dialogue" ;
+airo:has_capability "Language understanding and generation" ;
+airo:uses_technique "Large language model" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "moderate risk" ;
+airo:is_risk_source_for "Anthropomorphizing AI systems" ;
+airo:has_consequence "Engineer placed on leave" ;
+airo:has_impact "Debate on AI sentience" ;
+airo:has_stakeholder "AI researchers, public" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Google" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "low" ;
+airo:has_likelihood "low" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident17
+airo:is_applied_within_domain "Security" ;
+airo:has_purpose "Autonomous security patrols" ;
+airo:has_capability "Navigating environments" ;
+airo:uses_technique "Sensors, autonomous navigation" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "moderate risk" ;
+airo:is_risk_source_for "Ineffective security" ;
+airo:has_consequence "Wasted resources" ;
+airo:has_impact "Questions about effectiveness and privacy implications" ;
+airo:has_stakeholder "Public, law enforcement" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Knightscope" ;
+airo:is_used_by "NYPD" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "low" ;
+airo:has_likelihood "high" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident18
+airo:is_applied_within_domain "Logistics" ;
+airo:has_purpose "Monitoring worker productivity" ;
+airo:has_capability "Measuring worker activity" ;
+airo:uses_technique "Handheld scanners, software systems" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Excessive worker surveillance" ;
+airo:has_consequence "Violation of GDPR data minimization principle" ;
+airo:has_impact "Fine from privacy regulator" ;
+airo:has_stakeholder "Amazon workers" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Amazon" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "moderate" ;
+airo:has_likelihood "high" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident19
+airo:is_applied_within_domain "Politics" ;
+airo:has_purpose "Promoting re-election campaign" ;
+airo:has_capability "Generating news articles" ;
+airo:uses_technique "Language model" ;
+airo:produces_output "Fake news articles" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Spreading misinformation" ;
+airo:has_consequence "Misleading voters" ;
+airo:has_impact "Concerns about erosion of trust in elections" ;
+airo:has_stakeholder "Voters" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "OpenAI" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "moderate" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident20
+airo:is_applied_within_domain "Navigation" ;
+airo:has_purpose "Providing driving directions" ;
+airo:has_capability "Route planning" ;
+airo:uses_technique "Mapping algorithms" ;
+airo:produces_output "Directions to cross collapsed bridge" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Directing drivers to dangerous areas" ;
+airo:has_consequence "Death of driver" ;
+airo:has_impact "Accusations of negligence, lawsuit against Google" ;
+airo:has_stakeholder "Google Maps users" ;
+airo:mitigation "Update route information promptly when notified of hazards" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Google" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "low" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident21
+airo:is_applied_within_domain "Navigation" ;
+airo:has_purpose "Providing driving directions" ;
+airo:has_capability "Route planning" ;
+airo:uses_technique "Mapping algorithms" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Directing drivers to dangerous areas" ;
+airo:has_consequence "Assault and robbery of couple" ;
+airo:has_impact "Accusations of negligence, changes to route planning" ;
+airo:has_stakeholder "Google Maps users" ;
+airo:mitigation "Re-route trips away from dangerous areas" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Google" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "low" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident22
+airo:is_applied_within_domain "Finance" ;
+airo:has_purpose "Conducting financial transactions" ;
+airo:has_capability "Imitating executives in video calls" ;
+airo:uses_technique "Deepfake technology" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Tricking employees into transferring funds" ;
+airo:has_consequence "USD 26 million fraudulently transferred" ;
+airo:has_impact "" ;
+airo:has_stakeholder "Companies, employees" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "" ;
+airo:is_used_by "Scammers" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "low" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident23
+airo:is_applied_within_domain "Marketing" ;
+airo:has_purpose "Generating promotional images" ;
+airo:has_capability "Generating images of dragons" ;
+airo:uses_technique "Generative AI" ;
+airo:produces_output "Low quality dragon images" ;
+airo:has_component "" ;
+airo:has_risk "moderate risk" ;
+airo:is_risk_source_for "Devaluing work of artists" ;
+airo:has_consequence "Backlash from artists and customers" ;
+airo:has_impact "Reputational damage, loss of customers" ;
+airo:has_stakeholder "Artists, Wacom customers" ;
+airo:mitigation "Delete AI-generated images" ;
+airo:has_documentation "" ;
+airo:is_provided_by "" ;
+airo:is_used_by "Wacom" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "low" ;
+airo:has_likelihood "moderate" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident24
+airo:is_applied_within_domain "E-commerce" ;
+airo:has_purpose "Generating recipes and food images" ;
+airo:has_capability "Generating recipes and food images" ;
+airo:uses_technique "Generative AI" ;
+airo:produces_output "Disturbing food images" ;
+airo:has_component "" ;
+airo:has_risk "moderate risk" ;
+airo:is_risk_source_for "Generating low quality content" ;
+airo:has_consequence "Backlash from customers" ;
+airo:has_impact "Reputational damage, loss of customers" ;
+airo:has_stakeholder "Instacart customers" ;
+airo:mitigation "Delete AI-generated images and recipes, replace with stock photos" ;
+airo:has_documentation "" ;
+airo:is_provided_by "" ;
+airo:is_used_by "Instacart" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "low" ;
+airo:has_likelihood "moderate" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident25
+airo:is_applied_within_domain "Finance" ;
+airo:has_purpose "Spreading misinformation" ;
+airo:has_capability "Generating social media posts" ;
+airo:uses_technique "Bots, fake social media accounts" ;
+airo:produces_output "Misleading social media posts" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Undermining confidence in banks" ;
+airo:has_consequence "Bank collapse, USD 100 billion in withdrawn deposits" ;
+airo:has_impact "" ;
+airo:has_stakeholder "First Republic Bank, customers" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "" ;
+airo:is_used_by "Short-sellers" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "low" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident26
+airo:is_applied_within_domain "Media" ;
+airo:has_purpose "Editing images" ;
+airo:has_capability "Manipulating images to appear more sexual" ;
+airo:uses_technique "Generative AI" ;
+airo:produces_output "Sexualized image of politician" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Unethical manipulation of images" ;
+airo:has_consequence "Accusations of sexism" ;
+airo:has_impact "Concerns about media ethics" ;
+airo:has_stakeholder "Georgie Purcell, public" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Adobe" ;
+airo:is_used_by "Nine News" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "moderate" ;
+airo:has_likelihood "low" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident27
+airo:is_applied_within_domain "Autonomous vehicles" ;
+airo:has_purpose "Driverless taxi service" ;
+airo:has_capability "Autonomous driving" ;
+airo:uses_technique "Machine learning, sensors" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Reliance on human intervention" ;
+airo:has_consequence "Accusations of misleading marketing" ;
+airo:has_impact "Doubts about viability of service" ;
+airo:has_stakeholder "Cruise passengers, public" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Cruise" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "moderate" ;
+airo:has_likelihood "high" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident28
+airo:is_applied_within_domain "Entertainment" ;
+airo:has_purpose "Generating comedy content" ;
+airo:has_capability "Imitating comedians" ;
+airo:uses_technique "Language models" ;
+airo:produces_output "Unauthorized comedy special" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Copyright infringement" ;
+airo:has_consequence "Lawsuit from comedian's estate" ;
+airo:has_impact "" ;
+airo:has_stakeholder "George Carlin's estate" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "" ;
+airo:is_used_by "Dudesy LLC" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "moderate" ;
+airo:has_likelihood "low" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident29
+airo:is_applied_within_domain "Social media" ;
+airo:has_purpose "Generating explicit images" ;
+airo:has_capability "Generating explicit images of celebrities" ;
+airo:uses_technique "Generative AI" ;
+airo:produces_output "Explicit AI-generated images of Taylor Swift" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Spreading non-consensual explicit images" ;
+airo:has_consequence "Emotional distress for Swift" ;
+airo:has_impact "Concerns about content moderation on X/Twitter" ;
+airo:has_stakeholder "Taylor Swift, public" ;
+airo:mitigation "Remove images, suspend accounts, block searches" ;
+airo:has_documentation "" ;
+airo:is_provided_by "" ;
+airo:is_used_by "Celeb Jihad" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "moderate" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident30
+airo:is_applied_within_domain "Welfare" ;
+airo:has_purpose "Determining eligibility for welfare" ;
+airo:has_capability "Linking databases to determine eligibility" ;
+airo:uses_technique "Algorithmic system" ;
+airo:produces_output "Incorrect death classifications" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Denying welfare to eligible people" ;
+airo:has_consequence "Over 300,000 pensions stopped" ;
+airo:has_impact "" ;
+airo:has_stakeholder "Welfare beneficiaries in Haryana" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Government of Haryana" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "high" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident31
+airo:is_applied_within_domain "Welfare" ;
+airo:has_purpose "Determining eligibility for aid" ;
+airo:has_capability "Estimating families' income and wealth" ;
+airo:uses_technique "Algorithmic system" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Unfairly excluding poor people from aid" ;
+airo:has_consequence "Denial of aid to eligible people" ;
+airo:has_impact "Increased social tensions and inequality" ;
+airo:has_stakeholder "Aid applicants in Jordan" ;
+airo:mitigation "Refine the algorithm" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Jordan's National Aid Fund" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "high" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident32
+airo:is_applied_within_domain "Welfare" ;
+airo:has_purpose "Determining eligibility for welfare" ;
+airo:has_capability "Identifying fraudulent welfare claims" ;
+airo:uses_technique "Algorithmic system" ;
+airo:produces_output "Incorrect fraud classifications" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Denying welfare to eligible people" ;
+airo:has_consequence "100,000 ration cards removed, denial of food rations" ;
+airo:has_impact "Worsened social inequality" ;
+airo:has_stakeholder "Ration card holders in Hyderabad" ;
+airo:mitigation "Reinstate cancelled ration cards" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Government of Telangana" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "high" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident33
+airo:is_applied_within_domain "Law enforcement" ;
+airo:has_purpose "Identifying suspects" ;
+airo:has_capability "Matching faces to identities" ;
+airo:uses_technique "Facial recognition" ;
+airo:produces_output "Incorrect suspect identification" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Wrongful arrests" ;
+airo:has_consequence "Wrongful arrest and imprisonment, assault" ;
+airo:has_impact "" ;
+airo:has_stakeholder "Harvey Murphy Jr, public" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "" ;
+airo:is_used_by "Macy's, Sunglass Hut" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "low" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident34
+airo:is_applied_within_domain "Art" ;
+airo:has_purpose "Identifying individuals" ;
+airo:has_capability "Matching faces to social media profiles" ;
+airo:uses_technique "Facial recognition" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Invading privacy, enabling harassment" ;
+airo:has_consequence "Concerns about end of anonymity" ;
+airo:has_impact "Inspired campaign to harass women" ;
+airo:has_stakeholder "Subway passengers, women" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "FindFace" ;
+airo:is_used_by "Egor Tsvetkov" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "high" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident35
+airo:is_applied_within_domain "Gaming" ;
+airo:has_purpose "Generating game assets" ;
+airo:has_capability "Generating creature designs" ;
+airo:uses_technique "Generative AI" ;
+airo:produces_output "Pokemon-like creature designs" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Copyright infringement" ;
+airo:has_consequence "Accusations of plagiarism" ;
+airo:has_impact "" ;
+airo:has_stakeholder "Pokemon IP owners, gamers" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "" ;
+airo:is_used_by "Pocket Pair" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "moderate" ;
+airo:has_likelihood "high" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident36
+airo:is_applied_within_domain "Logistics" ;
+airo:has_purpose "Customer service" ;
+airo:has_capability "Engaging in dialogue" ;
+airo:uses_technique "Chatbot" ;
+airo:produces_output "Criticism of DPD" ;
+airo:has_component "" ;
+airo:has_risk "moderate risk" ;
+airo:is_risk_source_for "Reputational damage" ;
+airo:has_consequence "Chatbot taken offline" ;
+airo:has_impact "" ;
+airo:has_stakeholder "DPD customers" ;
+airo:mitigation "Update chatbot system" ;
+airo:has_documentation "" ;
+airo:is_provided_by "DPD" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "low" ;
+airo:has_likelihood "low" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident37
+airo:is_applied_within_domain "E-commerce" ;
+airo:has_purpose "Generating product listings" ;
+airo:has_capability "Generating product names and descriptions" ;
+airo:uses_technique "Language model" ;
+airo:produces_output "Nonsensical product listings" ;
+airo:has_component "" ;
+airo:has_risk "moderate risk" ;
+airo:is_risk_source_for "Deterioration of platform quality" ;
+airo:has_consequence "Criticism of Amazon" ;
+airo:has_impact "" ;
+airo:has_stakeholder "Amazon shoppers" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "OpenAI" ;
+airo:is_used_by "Amazon sellers" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "low" ;
+airo:has_likelihood "high" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident38
+airo:is_applied_within_domain "Pornography" ;
+airo:has_purpose "Identifying individuals" ;
+airo:has_capability "Matching faces to identities" ;
+airo:uses_technique "Facial recognition" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Invading privacy, enabling harassment" ;
+airo:has_consequence "Concerns about misuse of technology" ;
+airo:has_impact "" ;
+airo:has_stakeholder "Porn performers" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "PimEyes" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "high" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident39
+airo:is_applied_within_domain "Search" ;
+airo:has_purpose "Searching for images of individuals" ;
+airo:has_capability "Matching faces to identities" ;
+airo:uses_technique "Facial recognition" ;
+airo:produces_output "Potentially explicit images of children" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Enabling stalking and predation" ;
+airo:has_consequence "Concerns about child safety" ;
+airo:has_impact "" ;
+airo:has_stakeholder "Children" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "PimEyes" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "high" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident40
+airo:is_applied_within_domain "Motorsports" ;
+airo:has_purpose "Marketing and promotion" ;
+airo:has_capability "Generating influencer content" ;
+airo:uses_technique "Generative AI" ;
+airo:produces_output "AI-generated influencer" ;
+airo:has_component "" ;
+airo:has_risk "moderate risk" ;
+airo:is_risk_source_for "Displacing human workers" ;
+airo:has_consequence "Backlash from public" ;
+airo:has_impact "" ;
+airo:has_stakeholder "Mahindra fans, women" ;
+airo:mitigation "Discontinue AI influencer project" ;
+airo:has_documentation "" ;
+airo:is_provided_by "" ;
+airo:is_used_by "Mahindra Racing" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "low" ;
+airo:has_likelihood "moderate" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident41
+airo:is_applied_within_domain "Recruitment" ;
+airo:has_purpose "Screening job applicants" ;
+airo:has_capability "Engaging with job applicants" ;
+airo:uses_technique "Chatbot" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Data breaches" ;
+airo:has_consequence "Exposure of sensitive applicant data" ;
+airo:has_impact "" ;
+airo:has_stakeholder "Job applicants" ;
+airo:mitigation "Secure system after hack" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Chattr" ;
+airo:is_used_by "Chick-fil-A, Subway" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "moderate" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident42
+airo:is_applied_within_domain "Gaming" ;
+airo:has_purpose "Multiplayer gaming" ;
+airo:has_capability "Enabling player interaction" ;
+airo:uses_technique "Virtual reality" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Sexual harassment" ;
+airo:has_consequence "Emotional distress for victim" ;
+airo:has_impact "Concerns about safety of VR platforms" ;
+airo:has_stakeholder "VR gamers" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Meta" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "moderate" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident43
+airo:is_applied_within_domain "Education" ;
+airo:has_purpose "Generating explicit images" ;
+airo:has_capability "Generating nude images" ;
+airo:uses_technique "Generative AI" ;
+airo:produces_output "Nude images of students and staff" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Emotional distress, reputational damage" ;
+airo:has_consequence "Police investigation" ;
+airo:has_impact "Concerns about lack of laws" ;
+airo:has_stakeholder "Students, school staff" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "" ;
+airo:is_used_by "Student" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "moderate" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident44
+airo:is_applied_within_domain "Fraud" ;
+airo:has_purpose "Scamming people" ;
+airo:has_capability "Imitating celebrities" ;
+airo:uses_technique "Deepfakes, text-to-speech" ;
+airo:produces_output "Fake Taylor Swift videos" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Financial loss, data theft" ;
+airo:has_consequence "" ;
+airo:has_impact "" ;
+airo:has_stakeholder "Scam victims" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "" ;
+airo:is_used_by "Scammers" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "moderate" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident45
+airo:is_applied_within_domain "Publishing" ;
+airo:has_purpose "Illustrating books" ;
+airo:has_capability "Generating illustrations" ;
+airo:uses_technique "Generative AI" ;
+airo:produces_output "Low quality illustrations" ;
+airo:has_component "" ;
+airo:has_risk "moderate risk" ;
+airo:is_risk_source_for "Displacing human artists" ;
+airo:has_consequence "Backlash from fans" ;
+airo:has_impact "" ;
+airo:has_stakeholder "D&D fans, artists" ;
+airo:mitigation "Ban AI artwork" ;
+airo:has_documentation "" ;
+airo:is_provided_by "" ;
+airo:is_used_by "Ilya Shkipin" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "low" ;
+airo:has_likelihood "moderate" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident46
+airo:is_applied_within_domain "Marketing" ;
+airo:has_purpose "Generating promotional images" ;
+airo:has_capability "Generating images" ;
+airo:uses_technique "Generative AI" ;
+airo:produces_output "Promotional image with AI components" ;
+airo:has_component "" ;
+airo:has_risk "moderate risk" ;
+airo:is_risk_source_for "Inconsistent AI governance" ;
+airo:has_consequence "Accusations of hypocrisy" ;
+airo:has_impact "" ;
+airo:has_stakeholder "Magic: The Gathering fans" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "" ;
+airo:is_used_by "Wizards of the Coast" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "low" ;
+airo:has_likelihood "moderate" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident47
+airo:is_applied_within_domain "Image generation" ;
+airo:has_purpose "Generating images from text" ;
+airo:has_capability "Generating violent images" ;
+airo:uses_technique "Generative AI" ;
+airo:produces_output "Violent images of public figures" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Unintended violent outputs" ;
+airo:has_consequence "Reputational damage for Microsoft" ;
+airo:has_impact "" ;
+airo:has_stakeholder "Public figures, ethnic minorities" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Microsoft" ;
+airo:is_used_by "Josh McDuffie" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "moderate" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident48
+airo:is_applied_within_domain "E-commerce" ;
+airo:has_purpose "Attracting investors" ;
+airo:has_capability "Promising high returns" ;
+airo:uses_technique "Fraudulent claims of AI and machine learning" ;
+airo:produces_output "" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Defrauding investors" ;
+airo:has_consequence "Investors losing USD 22 million" ;
+airo:has_impact "FTC crackdown on AI fraud" ;
+airo:has_stakeholder "Investors" ;
+airo:mitigation "FTC lawsuit, court injunction" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Automators LLC" ;
+airo:is_used_by "" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "low" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident49
+airo:is_applied_within_domain "Welfare" ;
+airo:has_purpose "Detecting welfare fraud" ;
+airo:has_capability "Identifying fraudulent claims" ;
+airo:uses_technique "Machine learning" ;
+airo:produces_output "Incorrect fraud classifications" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Denying benefits to eligible people" ;
+airo:has_consequence "600,000 legitimate claims suspended" ;
+airo:has_impact "" ;
+airo:has_stakeholder "Welfare claimants" ;
+airo:mitigation "" ;
+airo:has_documentation "" ;
+airo:is_provided_by "Thomson Reuters" ;
+airo:is_used_by "42 US states" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "high" ;
+airo:has_lifecycle_phase "" .
+
+airo:Incident50
+airo:is_applied_within_domain "Automotive sales" ;
+airo:has_purpose "Customer service" ;
+airo:has_capability "Engaging with customers" ;
+airo:uses_technique "Chatbot" ;
+airo:produces_output "Legally binding USD 1 car sale offer" ;
+airo:has_component "" ;
+airo:has_risk "high risk" ;
+airo:is_risk_source_for "Agreeing to unfavorable terms" ;
+airo:has_consequence "Potential financial loss for dealership" ;
+airo:has_impact "" ;
+airo:has_stakeholder "Chevrolet dealership" ;
+airo:mitigation "Improve chatbot configuration and testing" ;
+airo:has_documentation "" ;
+airo:is_provided_by "OpenAI" ;
+airo:is_used_by "Chevrolet dealership" ;
+airo:has_AI_subject "" ;
+airo:has_version "" ;
+airo:has_severity "high" ;
+airo:has_likelihood "low" ;
+airo:has_lifecycle_phase "" .

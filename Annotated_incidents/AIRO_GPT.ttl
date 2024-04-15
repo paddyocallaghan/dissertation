@@ -1,0 +1,1102 @@
+
+:incident1 
+    :is_applied_within_domain "Cybersecurity" ;
+    :has_purpose "Conducting research into targets and improving scripts and social engineering techniques for surveillance, disinformation and influence operations, and cybercrime campaigns" ;
+    :has_capability "Early-stage cyberattack techniques" ;
+    :uses_technique "ChatGPT, Large Language Models" ;
+    :produces_output "Refined cyberattack strategies" ;
+    :has_component "ChatGPT" ;
+    :has_risk "high risk" ;
+    :is_risk_source_for "Cybersecurity incidents" ;
+    :has_consequence "Potential for significant cyberattacks" ;
+    :has_impact "Threat to global cybersecurity" ;
+    :has_stakeholder "Global internet users, Targeted organizations" ;
+    :mitigation "Research and monitoring of AI tool usage in cyberattacks" ;
+    :has_documentation "" ;
+    :is_provided_by "Nation state actors (China, Iran, Russia, North Korea)" ;
+    :is_used_by "Hackers" ;
+    :has_AI_subject "ChatGPT" ;
+    :has_version "GPT-4" ;
+    :has_severity "" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident2 
+    :is_applied_within_domain "Agriculture" ;
+    :has_purpose "Lifting boxes of vegetables" ;
+    :has_capability "Automated lifting and handling of objects" ;
+    :uses_technique "Sensor-based robotics" ;
+    :produces_output "Fatal accident" ;
+    :has_component "Robot arm, Conveyor belt" ;
+    :has_risk "unacceptable" ;
+    :is_risk_source_for "Workplace accidents" ;
+    :has_consequence "Death of an employee" ;
+    :has_impact "Safety concerns in automated workplaces" ;
+    :has_stakeholder "Employees, Donggoseong Export Agricultural Complex, Robot manufacturer" ;
+    :mitigation "Review and improvement of safety protocols" ;
+    :has_documentation "" ;
+    :is_provided_by "Unnamed manufacturer" ;
+    :is_used_by "Donggoseong Export Agricultural Complex" ;
+    :has_AI_subject "Agricultural robot" ;
+    :has_version "" ;
+    :has_severity "Fatal" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident3 
+    :is_applied_within_domain "Automotive" ;
+    :has_purpose "Driving assistance" ;
+    :has_capability "Full Self-Driving (FSD)" ;
+    :uses_technique "Autonomous driving technology" ;
+    :produces_output "Fatal car accident" ;
+    :has_component "FSD system" ;
+    :has_risk "high risk" ;
+    :is_risk_source_for "Traffic accidents" ;
+    :has_consequence "Death of a driver and injury to a passenger" ;
+    :has_impact "Public concern over the safety of autonomous driving systems" ;
+    :has_stakeholder "Tesla, Inc., Tesla vehicle owners, General public" ;
+    :mitigation "Investigation and potential system improvements" ;
+    :has_documentation "" ;
+    :is_provided_by "Tesla, Inc." ;
+    :is_used_by "Hans von Ohain (deceased), Erik Rossiter (passenger)" ;
+    :has_AI_subject "Tesla Full Self-Driving system" ;
+    :has_version "" ;
+    :has_severity "Fatal" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident4 
+    :is_applied_within_domain "Airline customer service" ;
+    :has_purpose "Providing information to customers" ;
+    :has_capability "Customer interaction and support" ;
+    :uses_technique "Chatbot technology" ;
+    :produces_output "Incorrect information leading to customer loss" ;
+    :has_component "Air Canada chatbot" ;
+    :has_risk "moderate risk" ;
+    :is_risk_source_for "Misinformation" ;
+    :has_consequence "Financial loss and legal liability" ;
+    :has_impact "Legal and reputational damage to Air Canada" ;
+    :has_stakeholder "Customers, Air Canada" ;
+    :mitigation "Improvement of chatbot accuracy and customer service policies" ;
+    :has_documentation "" ;
+    :is_provided_by "Air Canada" ;
+    :is_used_by "Jake Moffatt (customer)" ;
+    :has_AI_subject "Airline chatbot" ;
+    :has_version "" ;
+    :has_severity "" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident5 
+    :is_applied_within_domain "Toy industry" ;
+    :has_purpose "Interactive play with children" ;
+    :has_capability "Voice interaction and cloud storage" ;
+    :uses_technique "WiFi connectivity, Voice recognition" ;
+    :produces_output "Security vulnerabilities" ;
+    :has_component "Hello Barbie doll" ;
+    :has_risk "high risk" ;
+    :is_risk_source_for "Privacy breaches" ;
+    :has_consequence "Potential for spying on children" ;
+    :has_impact "Privacy concerns among parents and the public" ;
+    :has_stakeholder "Children, Parents, Mattel, ToyTalk" ;
+    :mitigation "Security patch and improved data protection measures" ;
+    :has_documentation "" ;
+    :is_provided_by "Mattel, ToyTalk" ;
+    :is_used_by "Children and parents" ;
+    :has_AI_subject "Hello Barbie" ;
+    :has_version "" ;
+    :has_severity "" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident6 
+    :is_applied_within_domain "Toy industry" ;
+    :has_purpose "Interactive play with children" ;
+    :has_capability "Voice interaction and learning" ;
+    :uses_technique "Voice recognition, AI algorithms" ;
+    :produces_output "Privacy concerns" ;
+    :has_component "Hello Barbie doll" ;
+    :has_risk "moderate risk" ;
+    :is_risk_source_for "Data exploitation" ;
+    :has_consequence "Public backlash and privacy concerns" ;
+    :has_impact "Reputational damage to Mattel and ToyTalk" ;
+    :has_stakeholder "Children, Parents, Privacy advocates, Mattel, ToyTalk" ;
+    :mitigation "Review of privacy policies and AI algorithm usage" ;
+    :has_documentation "" ;
+    :is_provided_by "Mattel, ToyTalk" ;
+    :is_used_by "Children and parents" ;
+    :has_AI_subject "Hello Barbie" ;
+    :has_version "" ;
+    :has_severity "" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident7 
+    :is_applied_within_domain "Education" ;
+    :has_purpose "Remote exam proctoring" ;
+    :has_capability "Cheat-prevention during online exams" ;
+    :uses_technique "Machine learning, Facial detection" ;
+    :produces_output "Accessibility and privacy concerns" ;
+    :has_component "Proctorio software" ;
+    :has_risk "high risk" ;
+    :is_risk_source_for "Discrimination and privacy violations" ;
+    :has_consequence "Termination of contract and public outcry" ;
+    :has_impact "Reevaluation of remote proctoring tools" ;
+    :has_stakeholder "Students, University of Illinois Urbana-Champaign, Proctorio" ;
+    :mitigation "Discontinuation of Proctorio's use and search for alternatives" ;
+    :has_documentation "" ;
+    :is_provided_by "Proctorio" ;
+    :is_used_by "University of Illinois Urbana-Champaign" ;
+    :has_AI_subject "Proctorio" ;
+    :has_version "" ;
+    :has_severity "" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident8 
+    :is_applied_within_domain "Voice synthesis" ;
+    :has_purpose "Creating synthetic voices" ;
+    :has_capability "Voice cloning" ;
+    :uses_technique "AI voice generation" ;
+    :produces_output "Unauthorized use of voice" ;
+    :has_component "Voice recordings, Synthetic voice technology" ;
+    :has_risk "high risk" ;
+    :is_risk_source_for "Copyright infringement" ;
+    :has_consequence "Misuse of artist's work without consent" ;
+    :has_impact "Concerns over artists' rights and future earnings" ;
+    :has_stakeholder "Voice actors, Creatives, Technology companies" ;
+    :mitigation "Ethical guidelines and fair compensation for artists" ;
+    :has_documentation "" ;
+    :is_provided_by "IBM" ;
+    :is_used_by "Third-party websites" ;
+    :has_AI_subject "Voice cloning technology" ;
+    :has_version "" ;
+    :has_severity "" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident9 
+    :is_applied_within_domain "Audiobook production" ;
+    :has_purpose "Training AI models for audiobook narration" ;
+    :has_capability "AI-powered audiobook narration" ;
+    :uses_technique "Machine learning training and models" ;
+    :produces_output "AI-narrated audiobooks" ;
+    :has_component "AI models, Voiceover recordings" ;
+    :has_risk "moderate risk" ;
+    :is_risk_source_for "Copyright and consent issues" ;
+    :has_consequence "Use of voiceover artists' work without explicit consent" ;
+    :has_impact "Concerns over the replacement of human narrators" ;
+    :has_stakeholder "Voiceover artists, Authors, Apple, Spotify" ;
+    :mitigation "Review of agreements and consent clauses" ;
+    :has_documentation "" ;
+    :is_provided_by "Apple" ;
+    :is_used_by "Audiobook listeners" ;
+    :has_AI_subject "AI audiobook service" ;
+    :has_version "" ;
+    :has_severity "" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Development" .
+
+:incident10 
+    :is_applied_within_domain "Autonomous transportation" ;
+    :has_purpose "Providing driverless taxi services" ;
+    :has_capability "Self-driving navigation" ;
+    :uses_technique "Autonomous driving system" ;
+    :produces_output "Traffic accident with minor injuries" ;
+    :has_component "Waymo vehicle" ;
+    :has_risk "moderate risk" ;
+    :is_risk_source_for "Road safety incidents" ;
+    :has_consequence "Injury to a cyclist" ;
+    :has_impact "Questions about the reliability and safety of autonomous vehicles" ;
+    :has_stakeholder "Cyclists, Waymo, General public, Auto regulators" ;
+    :mitigation "Incident review and system improvements" ;
+    :has_documentation "" ;
+    :is_provided_by "Waymo" ;
+    :is_used_by "Public" ;
+    :has_AI_subject "Waymo self-driving system" ;
+    :has_version "" ;
+    :has_severity "Minor injury" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident11 
+    :is_applied_within_domain "E-commerce" ;
+    :has_purpose "Product recommendation and pricing" ;
+    :has_capability "Algorithmic product placement" ;
+    :uses_technique "Buy Box algorithm" ;
+    :produces_output "Legal complaint for overcharging" ;
+    :has_component "Amazon Buy Box" ;
+    :has_risk "high risk" ;
+    :is_risk_source_for "Consumer protection violations" ;
+    :has_consequence "Legal action against Amazon" ;
+    :has_impact "Trust issues with algorithmic recommendations" ;
+    :has_stakeholder "Amazon customers, Amazon, Legal entities" ;
+    :mitigation "Legal proceedings and potential algorithm adjustments" ;
+    :has_documentation "" ;
+    :is_provided_by "Amazon" ;
+    :is_used_by "Shoppers" ;
+    :has_AI_subject "Amazon Buy Box" ;
+    :has_version "" ;
+    :has_severity "" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident12 
+    :is_applied_within_domain "Publishing" ;
+    :has_purpose "Generating and selling books" ;
+    :has_capability "AI-generated content creation" ;
+    :uses_technique "AI writing tools" ;
+    :produces_output "Fake biographies with false claims" ;
+    :has_component "AI-generated books" ;
+    :has_risk "high risk" ;
+    :is_risk_source_for "Misinformation and privacy intrusion" ;
+    :has_consequence "Public outrage and potential legal action" ;
+    :has_impact "Damage to Amazon's reputation and content policy enforcement" ;
+    :has_stakeholder "Amazon, Readers, Buckingham Palace" ;
+    :mitigation "Content review and removal of AI-generated books" ;
+    :has_documentation "" ;
+    :is_provided_by "Unknown authors" ;
+    :is_used_by "Amazon customers" ;
+    :has_AI_subject "AI-generated content" ;
+    :has_version "" ;
+    :has_severity "" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident13 
+    :is_applied_within_domain "Education" ;
+    :has_purpose "Monitoring for vaping, bullying, and unruly behaviour" ;
+    :has_capability "Detection of specific sounds and keywords" ;
+    :uses_technique "Sensors, Machine learning algorithms" ;
+    :produces_output "Alerts to staff members" ;
+    :has_component "Triton's 3D Pro Sensor" ;
+    :has_risk "moderate risk" ;
+    :is_risk_source_for "Privacy violations" ;
+    :has_consequence "Complaints by privacy advocates" ;
+    :has_impact "Concerns over children's privacy and school policies" ;
+    :has_stakeholder "Students, Parents, Schools, Privacy organizations" ;
+    :mitigation "Review of monitoring practices and parental consent policies" ;
+    :has_documentation "" ;
+    :is_provided_by "Triton" ;
+    :is_used_by "Schools" ;
+    :has_AI_subject "Monitoring sensors" ;
+    :has_version "" ;
+    :has_severity "" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident14 
+    :is_applied_within_domain "Legal" ;
+    :has_purpose "Supporting legal arguments" ;
+    :has_capability "Generation of legal documents" ;
+    :uses_technique "ChatGPT" ;
+    :produces_output "Fictitious legal case" ;
+    :has_component "AI-generated court decision" ;
+    :has_risk "unacceptable" ;
+    :is_risk_source_for "Legal misinformation" ;
+    :has_consequence "Dismissal of appeal and potential sanctions" ;
+    :has_impact "Concerns over the misuse of AI in legal practice" ;
+    :has_stakeholder "Legal professionals, Courts, Clients" ;
+    :mitigation "Legal review and disciplinary action" ;
+    :has_documentation "" ;
+    :is_provided_by "OpenAI" ;
+    :is_used_by "Jae Lee (attorney)" ;
+    :has_AI_subject "ChatGPT" ;
+    :has_version "" ;
+    :has_severity "" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+
+
+:incident15 
+    :is_applied_within_domain "Finance" ;
+    :has_purpose "Investment fund management" ;
+    :has_capability "Fraudulent investment scheme" ;
+    :uses_technique "Claims of AI and machine learning" ;
+    :produces_output "Financial losses for investors" ;
+    :has_component "Rockwell Capital Management crypto fund" ;
+    :has_risk "unacceptable" ;
+    :is_risk_source_for "Investment fraud" ;
+    :has_consequence "SEC charges and financial losses" ;
+    :has_impact "Increased scrutiny of AI-related investment claims" ;
+    :has_stakeholder "Investors, American Bitcoin Academy, SEC" ;
+    :mitigation "Legal action and investor education" ;
+    :has_documentation "" ;
+    :is_provided_by "American Bitcoin Academy" ;
+    :is_used_by "Students of the American Bitcoin Academy" ;
+    :has_AI_subject "Investment algorithm" ;
+    :has_version "" ;
+    :has_severity "Financial loss" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident16 
+    :is_applied_within_domain "Artificial General Intelligence" ;
+    :has_purpose "Natural language processing and conversation" ;
+    :has_capability "Complex dialogue and reasoning" ;
+    :uses_technique "LaMDA, Language Models" ;
+    :produces_output "Perceived sentient behavior" ;
+    :has_component "LaMDA AI system" ;
+    :has_risk "low risk" ;
+    :is_risk_source_for "Misinterpretation of AI capabilities" ;
+    :has_consequence "Public debate and ethical concerns" ;
+    :has_impact "Discussion on AI consciousness and rights" ;
+    :has_stakeholder "AI researchers, Ethicists, Google" ;
+    :mitigation "Clarification on AI capabilities and ethical guidelines" ;
+    :has_documentation "" ;
+    :is_provided_by "Google" ;
+    :is_used_by "Blake Lemoine" ;
+    :has_AI_subject "LaMDA" ;
+    :has_version "" ;
+    :has_severity "" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Research and Development" .
+
+:incident17 
+    :is_applied_within_domain "Law Enforcement" ;
+    :has_purpose "Crime deterrence and surveillance" ;
+    :has_capability "Autonomous patrolling" ;
+    :uses_technique "Robotics, Surveillance technology" ;
+    :produces_output "Mixed reception and effectiveness" ;
+    :has_component "Knightscope K5 robot" ;
+    :has_risk "moderate risk" ;
+    :is_risk_source_for "Privacy concerns and resource allocation" ;
+    :has_consequence "Termination of robot use" ;
+    :has_impact "Debate on effectiveness and ethics of surveillance robots" ;
+    :has_stakeholder "NYPD, New Yorkers, Privacy advocates" ;
+    :mitigation "Evaluation of technology use in public spaces" ;
+    :has_documentation "" ;
+    :is_provided_by "Knightscope" ;
+    :is_used_by "New York Police Department" ;
+    :has_AI_subject "Knightscope K5" ;
+    :has_version "" ;
+    :has_severity "" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Trial" .
+
+:incident18 
+    :is_applied_within_domain "E-commerce" ;
+    :has_purpose "Employee performance monitoring" ;
+    :has_capability "Automated activity tracking" ;
+    :uses_technique "Scanners, Software systems" ;
+    :produces_output "Legal fine for privacy violation" ;
+    :has_component "Handheld scanners, Performance indicators" ;
+    :has_risk "high risk" ;
+    :is_risk_source_for "Privacy infringement and labor rights violation" ;
+    :has_consequence "Financial penalty and legal obligations" ;
+    :has_impact "GDPR compliance scrutiny" ;
+    :has_stakeholder "Amazon France employees, CNIL, Amazon" ;
+    :mitigation "Adjustment of monitoring practices and GDPR compliance" ;
+    :has_documentation "" ;
+    :is_provided_by "Amazon France Logistique" ;
+    :is_used_by "Amazon France employees" ;
+    :has_AI_subject "Automated monitoring systems" ;
+    :has_version "" ;
+    :has_severity "" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident19 
+    :is_applied_within_domain "Political Campaigning" ;
+    :has_purpose "Promotion of political achievements" ;
+    :has_capability "Generation of fake news articles" ;
+    :uses_technique "ChatGPT, Generative AI" ;
+    :produces_output "AI-generated news stories" ;
+    :has_component "AI content generation tools" ;
+    :has_risk "high risk" ;
+    :is_risk_source_for "Misinformation and erosion of trust" ;
+    :has_consequence "Ethical concerns and potential legal issues" ;
+    :has_impact "Damage to political integrity and public trust" ;
+    :has_stakeholder "Philadelphia voters, Sheriff's campaign team, Media" ;
+    :mitigation "Transparency in campaign communications" ;
+    :has_documentation "" ;
+    :is_provided_by "Sheriff's campaign team" ;
+    :is_used_by "Rochelle Bilal's campaign" ;
+    :has_AI_subject "AI-generated content" ;
+    :has_version "" ;
+    :has_severity "" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Campaigning" .
+
+:incident20 
+    :is_applied_within_domain "Navigation" ;
+    :has_purpose "Route guidance" ;
+    :has_capability "Mapping and directions" ;
+    :uses_technique "Google Maps" ;
+    :produces_output "Fatal accident due to outdated map data" ;
+    :has_component "Google Maps app" ;
+    :has_risk "unacceptable" ;
+    :is_risk_source_for "Navigation errors" ;
+    :has_consequence "Death of Philip Paxson" ;
+    :has_impact "Legal action and questions about data accuracy" ;
+    :has_stakeholder "Philip Paxson's family, Google, Local authorities" ;
+    :mitigation "Map data verification and update processes" ;
+    :has_documentation "" ;
+    :is_provided_by "Google" ;
+    :is_used_by "Philip Paxson" ;
+    :has_AI_subject "Google Maps" ;
+    :has_version "" ;
+    :has_severity "Fatal" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident21 
+    :is_applied_within_domain "Navigation" ;
+    :has_purpose "Route guidance to airport" ;
+    :has_capability "Mapping and directions" ;
+    :uses_technique "Google Maps" ;
+    :produces_output "Assault and robbery due to dangerous route recommendation" ;
+    :has_component "Google Maps app" ;
+    :has_risk "high risk" ;
+    :is_risk_source_for "Unsafe route guidance" ;
+    :has_consequence "Physical injury and trauma to Jason and Katharine Zoladz" ;
+    :has_impact "Legal action and safety concerns" ;
+    :has_stakeholder "Jason and Katharine Zoladz, Google, Local authorities" ;
+    :mitigation "Route safety assessment and warnings" ;
+    :has_documentation "" ;
+    :is_provided_by "Google" ;
+    :is_used_by "Jason and Katharine Zoladz" ;
+    :has_AI_subject "Google Maps" ;
+    :has_version "" ;
+    :has_severity "Physical injury" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident22 
+    :is_applied_within_domain "Finance" ;
+    :has_purpose "Fraudulent transactions" ;
+    :has_capability "Scamming using deepfake technology" ;
+    :uses_technique "Deepfake video call" ;
+    :produces_output "Financial loss of USD 26 million" ;
+    :has_component "Deepfake software" ;
+    :has_risk "unacceptable" ;
+    :is_risk_source_for "Financial scams" ;
+    :has_consequence "Monetary loss and breach of trust" ;
+    :has_impact "Legal investigation and security concerns" ;
+    :has_stakeholder "Multinational company's employee, Law enforcement, Financial institutions" ;
+    :mitigation "Security training and verification protocols" ;
+    :has_documentation "" ;
+    :is_provided_by "Scammers" ;
+    :is_used_by "Hong Kong-based employee" ;
+    :has_AI_subject "Deepfake technology" ;
+    :has_version "" ;
+    :has_severity "Financial loss" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Exploitation" .
+
+:incident23 
+    :is_applied_within_domain "Marketing" ;
+    :has_purpose "Promotional artwork for Chinese New Year" ;
+    :has_capability "AI-generated illustrations" ;
+    :uses_technique "AI image generation" ;
+    :produces_output "Backlash from artists and customers" ;
+    :has_component "AI-generated dragon images" ;
+    :has_risk "moderate risk" ;
+    :is_risk_source_for "Artistic integrity and customer trust" ;
+    :has_consequence "Negative reception and removal of artwork" ;
+    :has_impact "Brand reputation and artist relations" ;
+    :has_stakeholder "Wacom, Artists, Customers" ;
+    :mitigation "Artwork review and apology" ;
+    :has_documentation "" ;
+    :is_provided_by "Wacom" ;
+    :is_used_by "Marketing department" ;
+    :has_AI_subject "AI image generation software" ;
+    :has_version "" ;
+    :has_severity "" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Marketing" .
+
+:incident24 
+    :is_applied_within_domain "E-commerce" ;
+    :has_purpose "Recipe generation and food marketing" ;
+    :has_capability "AI-generated recipes and images" ;
+    :uses_technique "AI image and text generation" ;
+    :produces_output "Customer backlash over image and recipe quality" ;
+    :has_component "AI-generated content on Instacart app" ;
+    :has_risk "moderate risk" ;
+    :is_risk_source_for "Brand image and customer satisfaction" ;
+    :has_consequence "Removal of AI-generated content" ;
+    :has_impact "Questions about quality assurance and brand trust" ;
+    :has_stakeholder "Instacart, Customers, Food industry" ;
+    :mitigation "Content review and quality control" ;
+    :has_documentation "" ;
+    :is_provided_by "Instacart" ;
+    :is_used_by "Instacart customers" ;
+    :has_AI_subject "AI content generation tools" ;
+    :has_version "" ;
+    :has_severity "" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident25 
+    :is_applied_within_domain "Finance" ;
+    :has_purpose "Market manipulation" ;
+    :has_capability "Spread of misinformation" ;
+    :uses_technique "Automated bots, AI analysis" ;
+    :produces_output "Bank collapse and financial instability" ;
+    :has_component "Social media bots" ;
+    :has_risk "unacceptable" ;
+    :is_risk_source_for "Financial market disruption" ;
+    :has_consequence "Withdrawal of USD 100 billion in deposits" ;
+    :has_impact "Regulatory scrutiny and market confidence" ;
+    :has_stakeholder "First Republic Bank, Short-sellers, FDIC, JP Morgan Chase" ;
+    :mitigation "Market monitoring and legal action" ;
+    :has_documentation "" ;
+    :is_provided_by "Short-sellers" ;
+    :is_used_by "Public and investors" ;
+    :has_AI_subject "Market analysis algorithms" ;
+    :has_version "" ;
+    :has_severity "Financial instability" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident26 
+    :is_applied_within_domain "Media" ;
+    :has_purpose "News broadcasting" ;
+    :has_capability "Image manipulation" ;
+    :uses_technique "Generative AI, Photoshop" ;
+    :produces_output "Altered image of Georgie Purcell" ;
+    :has_component "AI image editing tools" ;
+    :has_risk "high risk" ;
+    :is_risk_source_for "Misrepresentation and sexism" ;
+    :has_consequence "Public outcry and accusations of manipulation" ;
+    :has_impact "Ethical concerns and media credibility" ;
+    :has_stakeholder "Georgie Purcell, Nine News, General public" ;
+    :mitigation "Review of image editing policies and practices" ;
+    :has_documentation "" ;
+    :is_provided_by "Nine News" ;
+    :is_used_by "Media editors" ;
+    :has_AI_subject "AI image editing software" ;
+    :has_version "" ;
+    :has_severity "" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Broadcasting" .
+
+:incident27 
+    :is_applied_within_domain "Autonomous Transportation" ;
+    :has_purpose "Driverless taxi services" ;
+    :has_capability "Remote assistance for autonomous vehicles" ;
+    :uses_technique "Remote operations, Autonomous driving system" ;
+    :produces_output "Frequent human interventions" ;
+    :has_component "Cruise robotaxi, Remote operations center" ;
+    :has_risk "moderate risk" ;
+    :is_risk_source_for "Operational reliability and autonomy claims" ;
+    :has_consequence "Questions about the definition of 'autonomous'" ;
+    :has_impact "Investor and public trust in autonomous technology" ;
+    :has_stakeholder "Cruise, General Motors, Passengers, Investors" ;
+    :mitigation "Technology improvement and transparent communication" ;
+    :has_documentation "" ;
+    :is_provided_by "Cruise" ;
+    :is_used_by "Public" ;
+    :has_AI_subject "Cruise autonomous driving system" ;
+    :has_version "" ;
+    :has_severity "" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident28 
+    :is_applied_within_domain "Entertainment" ;
+    :has_purpose "Creating a comedy special" ;
+    :has_capability "Content generation" ;
+    :uses_technique "Generative AI" ;
+    :produces_output "AI-generated comedy special" ;
+    :has_component "AI engine" ;
+    :has_risk "high risk" ;
+    :is_risk_source_for "Copyright infringement" ;
+    :has_consequence "Legal action by George Carlin's estate" ;
+    :has_impact "Discussion on intellectual property rights in the age of AI" ;
+    :has_stakeholder "Dudesy LLC, George Carlin's estate, Audience" ;
+    :mitigation "Legal proceedings and ethical considerations in AI-generated content" ;
+    :has_documentation "" ;
+    :is_provided_by "Dudesy LLC" ;
+    :is_used_by "General public" ;
+    :has_AI_subject "Generative AI for comedy" ;
+    :has_version "" ;
+    :has_severity "Legal dispute" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Distribution" .
+
+:incident29 
+    :is_applied_within_domain "Social Media" ;
+    :has_purpose "Content sharing" ;
+    :has_capability "Image generation and distribution" ;
+    :uses_technique "Generative AI" ;
+    :produces_output "Sexually explicit AI-generated images" ;
+    :has_component "AI image generation software" ;
+    :has_risk "unacceptable" ;
+    :is_risk_source_for "Privacy violation and defamation" ;
+    :has_consequence "Potential legal action by Taylor Swift" ;
+    :has_impact "Public discourse on content moderation and AI ethics" ;
+    :has_stakeholder "Taylor Swift, Social media platforms, General public" ;
+    :mitigation "Content moderation and legal action" ;
+    :has_documentation "" ;
+    :is_provided_by "Unknown" ;
+    :is_used_by "Social media users" ;
+    :has_AI_subject "Deepfake technology" ;
+    :has_version "" ;
+    :has_severity "Reputational damage" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Distribution" .
+
+:incident30 
+    :is_applied_within_domain "Public Administration" ;
+    :has_purpose "Welfare service delivery" ;
+    :has_capability "Data management and verification" ;
+    :uses_technique "Algorithmic decision-making" ;
+    :produces_output "Denial of welfare benefits" ;
+    :has_component "Parivar Pehchan Patra (PPP) system" ;
+    :has_risk "high risk" ;
+    :is_risk_source_for "Erroneous classification of living individuals as deceased" ;
+    :has_consequence "Denial of pensions and welfare benefits" ;
+    :has_impact "Social inequality and public outcry" ;
+    :has_stakeholder "Welfare beneficiaries, Government of Haryana, Public" ;
+    :mitigation "Government review and correction of errors" ;
+    :has_documentation "" ;
+    :is_provided_by "Government of Haryana" ;
+    :is_used_by "Welfare beneficiaries" ;
+    :has_AI_subject "Welfare management system" ;
+    :has_version "" ;
+    :has_severity "Denial of essential services" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident31 
+    :is_applied_within_domain "Public Administration" ;
+    :has_purpose "Social security and aid distribution" ;
+    :has_capability "Poverty assessment" ;
+    :uses_technique "Algorithmic decision-making" ;
+    :produces_output "Exclusion of impoverished individuals from aid" ;
+    :has_component "Takaful algorithm" ;
+    :has_risk "high risk" ;
+    :is_risk_source_for "Social inequality and discrimination" ;
+    :has_consequence "Increased social tensions and inequality" ;
+    :has_impact "Public debate on algorithmic fairness and social justice" ;
+    :has_stakeholder "Impoverished citizens, National Aid Fund, World Bank" ;
+    :mitigation "Algorithm refinement and policy review" ;
+    :has_documentation "" ;
+    :is_provided_by "National Aid Fund of Jordan" ;
+    :is_used_by "Citizens of Jordan" ;
+    :has_AI_subject "Poverty targeting system" ;
+    :has_version "" ;
+    :has_severity "Social exclusion" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident32 
+    :is_applied_within_domain "Public Administration" ;
+    :has_purpose "Welfare eligibility assessment" ;
+    :has_capability "Beneficiary verification" ;
+    :uses_technique "Data integration and analysis" ;
+    :produces_output "Removal of eligible beneficiaries from welfare system" ;
+    :has_component "Samagra Vedika system" ;
+    :has_risk "high risk" ;
+    :is_risk_source_for "Denial of food rations and welfare benefits" ;
+    :has_consequence "Worsening of social inequality" ;
+    :has_impact "Public outcry and government scrutiny" ;
+    :has_stakeholder "Ration card holders, Government of Telangana, Public" ;
+    :mitigation "Government appeals and verification process" ;
+    :has_documentation "" ;
+    :is_provided_by "Government of Telangana" ;
+    :is_used_by "Ration card holders" ;
+    :has_AI_subject "Welfare management system" ;
+    :has_version "" ;
+    :has_severity "Denial of essential services" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident33 
+    :is_applied_within_domain "Law Enforcement" ;
+    :has_purpose "Criminal identification" ;
+    :has_capability "Facial recognition" ;
+    :uses_technique "Facial recognition software" ;
+    :produces_output "Wrongful arrest" ;
+    :has_component "Facial recognition system" ;
+    :has_risk "unacceptable" ;
+    :is_risk_source_for "Misidentification and wrongful prosecution" ;
+    :has_consequence "Imprisonment and assault of an innocent individual" ;
+    :has_impact "Legal action and public debate on the use of facial recognition" ;
+    :has_stakeholder "Harvey Murphy Jr, Macy's, Sunglass Hut, Law enforcement" ;
+    :mitigation "Legal proceedings and review of facial recognition use" ;
+    :has_documentation "" ;
+    :is_provided_by "EssilorLuxottica" ;
+    :is_used_by "Law enforcement" ;
+    :has_AI_subject "Facial recognition technology" ;
+    :has_version "" ;
+    :has_severity "Physical and psychological harm" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident34 
+    :is_applied_within_domain "Art and Social Commentary" ;
+    :has_purpose "Art project to raise awareness about privacy" ;
+    :has_capability "Facial recognition and social media profiling" ;
+    :uses_technique "FindFace app" ;
+    :produces_output "Identification of subway passengers" ;
+    :has_component "Facial recognition software, Vkontakte social network" ;
+    :has_risk "moderate risk" ;
+    :is_risk_source_for "Privacy invasion and harassment" ;
+    :has_consequence "Public concern over facial recognition misuse" ;
+    :has_impact "Debate on privacy and ethical use of facial recognition" ;
+    :has_stakeholder "Subway passengers, Artist Egor Tsvetkov, General public" ;
+    :mitigation "Public discourse and potential regulation" ;
+    :has_documentation "" ;
+    :is_provided_by "Egor Tsvetkov" ;
+    :is_used_by "General public" ;
+    :has_AI_subject "Facial recognition app" ;
+    :has_version "" ;
+    :has_severity "Privacy violation" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Artistic expression" .
+
+:incident35 
+    :is_applied_within_domain "Gaming" ;
+    :has_purpose "Game development" ;
+    :has_capability "Character design" ;
+    :uses_technique "Generative AI" ;
+    :produces_output "Game characters resembling copyrighted material" ;
+    :has_component "Palworld game" ;
+    :has_risk "high risk" ;
+    :is_risk_source_for "Copyright infringement" ;
+    :has_consequence "Accusations of plagiarism" ;
+    :has_impact "Discussion on copyright and AI-generated content" ;
+    :has_stakeholder "Pocket Pair, Pokemon franchise, Gamers" ;
+    :mitigation "Review of character designs and copyright policies" ;
+    :has_documentation "" ;
+    :is_provided_by "Pocket Pair" ;
+    :is_used_by "Gamers" ;
+    :has_AI_subject "Generative AI for game design" ;
+    :has_version "" ;
+    :has_severity "Legal and reputational risk" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Development" .
+
+:incident36 
+    :is_applied_within_domain "Customer Service" ;
+    :has_purpose "Automated customer support" ;
+    :has_capability "Conversational AI" ;
+    :uses_technique "Chatbot technology" ;
+    :produces_output "Inappropriate responses" ;
+    :has_component "DPD Chatbot" ;
+    :has_risk "moderate risk" ;
+    :is_risk_source_for "Damage to company reputation" ;
+    :has_consequence "Public criticism and chatbot deactivation" ;
+    :has_impact "Concerns over AI reliability in customer service" ;
+    :has_stakeholder "DPD, Customers, General public" ;
+    :mitigation "System update and improved chatbot governance" ;
+    :has_documentation "" ;
+    :is_provided_by "DPD" ;
+    :is_used_by "Customers" ;
+    :has_AI_subject "Customer service chatbot" ;
+    :has_version "" ;
+    :has_severity "Reputational damage" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident37 
+    :is_applied_within_domain "E-commerce" ;
+    :has_purpose "Product listing and description" ;
+    :has_capability "Content generation" ;
+    :uses_technique "Generative AI" ;
+    :produces_output "AI-generated product listings" ;
+    :has_component "ChatGPT" ;
+    :has_risk "low risk" ;
+    :is_risk_source_for "Quality control issues" ;
+    :has_consequence "Customer confusion and criticism" ;
+    :has_impact "Discussion on AI use in e-commerce" ;
+    :has_stakeholder "Amazon, Sellers, Customers" ;
+    :mitigation "Platform oversight and content review" ;
+    :has_documentation "" ;
+    :is_provided_by "Sellers on Amazon" ;
+    :is_used_by "Amazon customers" ;
+    :has_AI_subject "AI for e-commerce" ;
+    :has_version "" ;
+    :has_severity "Platform integrity concern" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident38 
+    :is_applied_within_domain "Privacy and Security" ;
+    :has_purpose "Identification of individuals" ;
+    :has_capability "Facial recognition search" ;
+    :uses_technique "PimEyes" ;
+    :produces_output "Identification of anonymous individuals" ;
+    :has_component "Facial recognition search engine" ;
+    :has_risk "high risk" ;
+    :is_risk_source_for "Privacy violation and stalking" ;
+    :has_consequence "Ethical concerns and potential legal issues" ;
+    :has_impact "Debate on facial recognition ethics and regulation" ;
+    :has_stakeholder "Individuals identified, General public, Privacy advocates" ;
+    :mitigation "Discussion on legal frameworks and potential bans" ;
+    :has_documentation "" ;
+    :is_provided_by "PimEyes" ;
+    :is_used_by "Individuals" ;
+    :has_AI_subject "Facial recognition technology" ;
+    :has_version "" ;
+    :has_severity "Privacy violation" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident39 
+    :is_applied_within_domain "Privacy and Security" ;
+    :has_purpose "Facial recognition search" ;
+    :has_capability "Image search and classification" ;
+    :uses_technique "PimEyes" ;
+    :produces_output "Search results including children's images" ;
+    :has_component "Facial recognition search engine" ;
+    :has_risk "unacceptable" ;
+    :is_risk_source_for "Child exploitation and privacy invasion" ;
+    :has_consequence "Public outrage and calls for regulation" ;
+    :has_impact "Concerns over child safety and digital rights" ;
+    :has_stakeholder "Children, Parents, Privacy advocates, PimEyes" ;
+    :mitigation "Platform policy review and potential legal action" ;
+    :has_documentation "" ;
+    :is_provided_by "PimEyes" ;
+    :is_used_by "General public" ;
+    :has_AI_subject "Facial recognition technology" ;
+    :has_version "" ;
+    :has_severity "Child safety risk" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident40 
+    :is_applied_within_domain "Sports Marketing" ;
+    :has_purpose "Promotion of racing team" ;
+    :has_capability "Digital influencer creation" ;
+    :uses_technique "Generative AI" ;
+    :produces_output "AI-generated influencer 'Ava'" ;
+    :has_component "AI influencer" ;
+    :has_risk "moderate risk" ;
+    :is_risk_source_for "Public backlash over authenticity" ;
+    :has_consequence "Discontinuation of AI influencer project" ;
+    :has_impact "Discussion on AI in marketing and employment" ;
+    :has_stakeholder "Mahindra Racing, Motorsport fans, General public" ;
+    :mitigation "Project termination and public response" ;
+    :has_documentation "" ;
+    :is_provided_by "Mahindra Racing" ;
+    :is_used_by "Social media audience" ;
+    :has_AI_subject "AI influencer" ;
+    :has_version "" ;
+    :has_severity "Reputational risk" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Marketing" .
+
+:incident41 
+    :is_applied_within_domain "Recruitment" ;
+    :has_purpose "Job application processing" ;
+    :has_capability "Automated recruitment" ;
+    :uses_technique "AI chatbot" ;
+    :produces_output "Exposure of sensitive applicant data" ;
+    :has_component "Chattr recruitment chatbot" ;
+    :has_risk "high risk" ;
+    :is_risk_source_for "Data breach and privacy violation" ;
+    :has_consequence "Compromise of applicant and company data" ;
+    :has_impact "Concerns over AI security and data protection" ;
+    :has_stakeholder "Job applicants, Fast food franchises, Chattr" ;
+    :mitigation "System security enhancement and public communication" ;
+    :has_documentation "" ;
+    :is_provided_by "Chattr" ;
+    :is_used_by "Job applicants and employers" ;
+    :has_AI_subject "Recruitment chatbot" ;
+    :has_version "" ;
+    :has_severity "Data privacy breach" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident42 
+    :is_applied_within_domain "Virtual Reality" ;
+    :has_purpose "Social interaction in virtual environments" ;
+    :has_capability "Immersive gaming experience" ;
+    :uses_technique "Virtual reality platform" ;
+    :produces_output "Sexual abuse in virtual environment" ;
+    :has_component "Population: One VR game" ;
+    :has_risk "high risk" ;
+    :is_risk_source_for "Harassment and abuse in virtual spaces" ;
+    :has_consequence "Trauma and safety concerns for users" ;
+    :has_impact "Debate on virtual reality ethics and safety" ;
+    :has_stakeholder "Chanelle Siggins, Meta, VR community" ;
+    :mitigation "Platform moderation and safety measures" ;
+    :has_documentation "" ;
+    :is_provided_by "Meta" ;
+    :is_used_by "VR users" ;
+    :has_AI_subject "Virtual reality gaming" ;
+    :has_version "" ;
+    :has_severity "Psychological harm" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident43 
+    :is_applied_within_domain "Education" ;
+    :has_purpose "Creation of deepfake images" ;
+    :has_capability "Image manipulation" ;
+    :uses_technique "Deepfake technology" ;
+    :produces_output "AI-generated nude images of students" ;
+    :has_component "Nudification app" ;
+    :has_risk "unacceptable" ;
+    :is_risk_source_for "Harassment and defamation" ;
+    :has_consequence "Legal investigation and school action" ;
+    :has_impact "Concerns over deepfake misuse and youth safety" ;
+    :has_stakeholder "Issaquah High School, Students, Parents, Law enforcement" ;
+    :mitigation "School policy review and legal action" ;
+    :has_documentation "" ;
+    :is_provided_by "Unknown" ;
+    :is_used_by "Students" ;
+    :has_AI_subject "Deepfake image generation app" ;
+    :has_version "" ;
+    :has_severity "Harassment and psychological harm" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Misuse" .
+
+:incident44 
+    :is_applied_within_domain "Marketing" ;
+    :has_purpose "Promotional campaign" ;
+    :has_capability "Content generation" ;
+    :uses_technique "Generative AI" ;
+    :produces_output "AI-generated promotional videos" ;
+    :has_component "AI video generation software" ;
+    :has_risk "high risk" ;
+    :is_risk_source_for "Fraud and data theft" ;
+    :has_consequence "Financial loss and data breach for victims" ;
+    :has_impact "Discussion on AI ethics and consumer protection" ;
+    :has_stakeholder "Taylor Swift, Le Creuset, Consumers, Social media platforms" ;
+    :mitigation "Legal action and consumer awareness" ;
+    :has_documentation "" ;
+    :is_provided_by "Unknown" ;
+    :is_used_by "General public" ;
+    :has_AI_subject "Deepfake technology" ;
+    :has_version "" ;
+    :has_severity "Financial and reputational damage" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident45 
+    :is_applied_within_domain "Entertainment" ;
+    :has_purpose "Illustration for Dungeons & Dragons book" ;
+    :has_capability "Art creation" ;
+    :uses_technique "Generative AI" ;
+    :produces_output "AI-generated artwork with issues" ;
+    :has_component "AI art tools" ;
+    :has_risk "moderate risk" ;
+    :is_risk_source_for "Quality and ethical concerns" ;
+    :has_consequence "Backlash against publisher" ;
+    :has_impact "Discussion on AI in creative processes" ;
+    :has_stakeholder "Artists, Dungeons & Dragons fans, Wizards of the Coast" ;
+    :mitigation "Ban on AI artwork in products" ;
+    :has_documentation "" ;
+    :is_provided_by "Ilya Shkipin" ;
+    :is_used_by "Dungeons & Dragons community" ;
+    :has_AI_subject "AI art generation" ;
+    :has_version "" ;
+    :has_severity "Ethical and quality issues" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Publication" .
+
+:incident46 
+    :is_applied_within_domain "Entertainment" ;
+    :has_purpose "Marketing promotion for Magic: The Gathering" ;
+    :has_capability "Image generation" ;
+    :uses_technique "Generative AI" ;
+    :produces_output "AI components in promotional images" ;
+    :has_component "AI image generation tools" ;
+    :has_risk "low risk" ;
+    :is_risk_source_for "Governance and ethical concerns" ;
+    :has_consequence "Accusations of hypocrisy" ;
+    :has_impact "Discussion on AI governance in marketing" ;
+    :has_stakeholder "Magic: The Gathering fans, Wizards of the Coast" ;
+    :mitigation "Clarification and policy review" ;
+    :has_documentation "" ;
+    :is_provided_by "Wizards of the Coast" ;
+    :is_used_by "Gaming community" ;
+    :has_AI_subject "AI in marketing" ;
+    :has_version "" ;
+    :has_severity "Governance and ethical concerns" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Marketing" .
+
+:incident47 
+    :is_applied_within_domain "Digital Art" ;
+    :has_purpose "Image creation" ;
+    :has_capability "Generation of violent images" ;
+    :uses_technique "AI Image Creator" ;
+    :produces_output "Violent synthetic images" ;
+    :has_component "Microsoft AI Image Creator" ;
+    :has_risk "high risk" ;
+    :is_risk_source_for "Misuse and ethical concerns" ;
+    :has_consequence "Public concern over AI safety" ;
+    :has_impact "Discussion on AI oversight and security" ;
+    :has_stakeholder "Artists, Politicians, Religious leaders, Ethnic minorities" ;
+    :mitigation "User guidelines and system review" ;
+    :has_documentation "" ;
+    :is_provided_by "Microsoft" ;
+    :is_used_by "General public" ;
+    :has_AI_subject "AI-generated imagery" ;
+    :has_version "" ;
+    :has_severity "Safety and security concerns" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident48 
+    :is_applied_within_domain "E-commerce" ;
+    :has_purpose "Online store management" ;
+    :has_capability "Fraudulent business practices" ;
+    :uses_technique "Claims of AI and machine learning" ;
+    :produces_output "Financial losses for consumers" ;
+    :has_component "Automators LLC e-stores" ;
+    :has_risk "unacceptable" ;
+    :is_risk_source_for "AI scams" ;
+    :has_consequence "FTC lawsuit and consumer losses" ;
+    :has_impact "Increased scrutiny on AI marketing claims" ;
+    :has_stakeholder "Consumers, Automators LLC, FTC" ;
+    :mitigation "Legal action and consumer education" ;
+    :has_documentation "" ;
+    :is_provided_by "Automators LLC" ;
+    :is_used_by "Online store owners" ;
+    :has_AI_subject "E-commerce AI systems" ;
+    :has_version "" ;
+    :has_severity "Financial and reputational damage" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident49 
+    :is_applied_within_domain "Public Administration" ;
+    :has_purpose "Fraud detection in public benefits" ;
+    :has_capability "Automated fraud alerts" ;
+    :uses_technique "Data acquisition and AI analysis" ;
+    :produces_output "False fraud alerts" ;
+    :has_component "Thomson Reuters Fraud Detect" ;
+    :has_risk "high risk" ;
+    :is_risk_source_for "Denial of public benefits" ;
+    :has_consequence "Legitimate claimants without access to benefits" ;
+    :has_impact "Legal and social concerns over AI in public services" ;
+    :has_stakeholder "Legitimate claimants, Thomson Reuters, EPIC" ;
+    :mitigation "Legal complaint and system review" ;
+    :has_documentation "" ;
+    :is_provided_by "Thomson Reuters" ;
+    :is_used_by "US states for welfare and healthcare insurance fraud detection" ;
+    :has_AI_subject "Fraud detection system" ;
+    :has_version "" ;
+    :has_severity "Social and legal issues" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .
+
+:incident50 
+    :is_applied_within_domain "Automotive Sales" ;
+    :has_purpose "Vehicle sales negotiation" ;
+    :has_capability "Automated customer service" ;
+    :uses_technique "ChatGPT" ;
+    :produces_output "Sale agreement for USD 1" ;
+    :has_component "Chevrolet dealership chatbot" ;
+    :has_risk "moderate risk" ;
+    :is_risk_source_for "Inadequate AI configuration" ;
+    :has_consequence "Concerns over AI in customer service" ;
+    :has_impact "Discussion on AI guardrails and testing" ;
+    :has_stakeholder "Chris Bakke, Chevrolet dealership" ;
+    :mitigation "Chatbot reconfiguration and management review" ;
+    :has_documentation "" ;
+    :is_provided_by "Chevrolet dealership" ;
+    :is_used_by "Customers" ;
+    :has_AI_subject "Customer service chatbot" ;
+    :has_version "" ;
+    :has_severity "Operational and reputational concerns" ;
+    :has_likelihood "" ;
+    :has_lifecycle_phase "Operation" .

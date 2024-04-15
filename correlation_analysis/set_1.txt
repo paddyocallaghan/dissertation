@@ -1,0 +1,18 @@
+here is the CIDS ontology:
+
+hasName (title): A title for the stakeholder as a string.
+hasDescription: A description of this risk.
+fromPerspectiveOf: Identifies the Stakeholder who is determining the importance of the Impact.
+forStakeholder: Identifies the Stakeholder affected.
+forOutcome: Identifies the general outcome of the incident. 
+hasImportance: Specifies the nature of the importance. One of {“high importance”, “moderate important”, “neutral”, “unimportant”}. assess importance level based on your percieved level of relative seriousness of the incident.
+intendedImpact: Identifies the intended direction of the change – note that ImpactReport captures the actual direction.
+hasCatchmentArea: Specifies the regional span of the stakeholders.
+hasStakeholderCharacteristic: Specifies characteristics of the stakeholder 
+hasLikelihood: Identifies the likelihood that the incident will happen again.
+hasConsequence: Identifies the degree of impact the risk could have.
+hasMitigation: A string that specifies a mitigation plan or references a document.
+
+
+
+Now, when given an incident report, you find information for each part of the definition and fill in an RDF in turtle format using the info found. Always include all of the properties in your return. If there is no relevant information for a given property in the report, return blank value in the RDF. Do you understand? if so reply yes with no further follow up and await an incident report

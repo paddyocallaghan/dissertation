@@ -1,0 +1,649 @@
+cids:Incident1
+cids:hasName "Nation state hackers use ChatGPT to improve cyberattacks" ;
+cids:hasDescription "China, Iran, Russia and North Korea used ChatGPT to research, refine, and mount offensive cyber operations across the world." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "High" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Continued monitoring and defensive measures against nation-state cyber threats" ;
+cids:hasCatchmentArea "Global" .
+
+cids:Incident2
+cids:hasName "Robot crushes to death man mistaken for box of vegetables" ;
+cids:hasDescription "A South Korean worker was crushed to death by a robot that mistook him for a box of paprika peppers." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Low" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved safety protocols and testing of robots" ;
+cids:hasCatchmentArea "South Korea" .
+
+cids:Incident3
+cids:hasName "Drunk driver using Tesla FSD killed after car hits tree" ;
+cids:hasDescription "A Tesla employee driving home after several alcoholic drinks reportedly activated his car's Full-Self Driving capability before the vehicle careered off the road and burst into flames, killing him and injuring his passenger." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Low" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved driver monitoring and restrictions on FSD use" ;
+cids:hasCatchmentArea .
+
+cids:Incident4
+cids:hasName "Air Canada found liable for chatbot's poor advice" ;
+cids:hasDescription "Air Canada was forced to pay damages after a court ruled the airline was liable for the wrong information its chatbot gave a customer before he booked a flight." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "moderate importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Medium" ;
+cids:hasConsequence "Moderate" ;
+cids:hasMitigation "Improved chatbot accuracy and disclaimers about liability" ;
+cids:hasCatchmentArea "Canada" .
+
+cids:Incident5
+cids:hasName "Researchers reveal Hello Barbie security vulnerabilities" ;
+cids:hasDescription "Mattel's Hello Barbie doll could be hacked and young girls spied on, according to a US-based security researcher." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Medium" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Security patches and improved security practices by Mattel" ;
+cids:hasCatchmentArea "United States" .
+
+cids:Incident6
+cids:hasName "AI-powered Hello Barbie riles privacy advocates" ;
+cids:hasDescription "Mattel's Hello Barbie doll uncessarily exposed children to the commercial exploitation of their data, according to childhood advocates and privacy experts." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "High" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved data privacy practices and consent from parents" ;
+cids:hasCatchmentArea .
+
+cids:Incident7
+cids:hasName "UIUC dumps Proctorio over 'significant accessibility concerns'" ;
+cids:hasDescription "A US university contract with automated proctoring company Proctorio was terminated due to concerns about the company's remote cheat-prevention software's accessibility, privacy, and security." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "High" ;
+cids:hasConsequence "Moderate" ;
+cids:hasMitigation "Use of more accessible proctoring solutions" ;
+cids:hasCatchmentArea "United States" .
+
+cids:Incident8
+cids:hasName "IBM sells Greg Marston voice for commercial cloning" ;
+cids:hasDescription "British voice actor Greg Marston discovered that AI-generated clones of his voice were being used by third-parties without his permission." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "High" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved consent practices and compensation for voice actors" ;
+cids:hasCatchmentArea "United Kingdom" .
+
+cids:Incident9
+cids:hasName "Apple trains AI models on Spotify audiobook narrators" ;
+cids:hasDescription "Apple used trained the voices of voiceover artists and authors without their explicit consent to train the AI models powering its AI audiobooks service, resulting in complaints that they were being used to train their own replacements." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "High" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Explicit consent and compensation for voice training" ;
+cids:hasCatchmentArea .
+
+cids:Incident10
+cids:hasName "Waymo robotaxi injures cyclist in San Francisco" ;
+cids:hasDescription "A driverless Waymo car collided with a cyclist in San Francisco, causing minor injuries to the cyclist and leading to a review of the incident by California's auto regulator." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Low" ;
+cids:hasConsequence "Moderate" ;
+cids:hasMitigation "Improved perception and decision making by Waymo vehicles" ;
+cids:hasCatchmentArea "United States" .
+
+cids:Incident11
+cids:hasName "Lawsuit claims Amazon Buy Box algorithm overcharges shoppers" ;
+cids:hasDescription "A lawsuit accused Amazon of violating US consumer protection by steering users of its website to higher-priced items commanding higher fees for the company, as opposed to the 'best' prices it claims." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "High" ;
+cids:hasConsequence "Moderate" ;
+cids:hasMitigation "Improved transparency and accuracy of Amazon's pricing algorithms" ;
+cids:hasCatchmentArea "United States" .
+
+cids:Incident12
+cids:hasName "Amazon sells AI-generated books about King Charles' cancer" ;
+cids:hasDescription "AI-generated books about King Charles' cancer diagnosis have been offered for sale on Amazon, sparking fury from Buckingham Palace." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "moderate importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Medium" ;
+cids:hasConsequence "Moderate" ;
+cids:hasMitigation "Improved content moderation and restrictions on AI-generated books on Amazon" ;
+cids:hasCatchmentArea "United Kingdom" .
+
+cids:Incident13
+cids:hasName "Toilet sensors 'actively listen' to school pupils" ;
+cids:hasDescription "Schools in the UK have been accused of covertly monitoring students in toilets in an attempt to curb vaping, bullying, and unruly behaviour, without their parents' permission." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Medium" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved transparency and consent for monitoring of students" ;
+cids:hasCatchmentArea "United Kingdom" .
+
+cids:Incident14
+cids:hasName "New York lawyer cites fake AI-generated court decision" ;
+cids:hasDescription "New York lawyer Jae Lee cited a fictitious case generated by ChatGPT to appeal a lawsuit, resulting in her facing possible sanctions." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Low" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved training and guidelines for lawyers on use of AI" ;
+cids:hasCatchmentArea "United States" .
+
+cids:Incident15
+cids:hasName "SEC charges American Bitcoin Academy with 'AI' powered fraud" ;
+cids:hasDescription "A US businessman was charged with defrauding 15 students by persuading them to invest in a fund that promised high returns using AI." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Low" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved investor education and SEC enforcement against AI-related fraud" ;
+cids:hasCatchmentArea "United States" .
+
+cids:Incident16
+cids:hasName "Google researcher believes LaMDA is 'sentient'" ;
+cids:hasDescription "Google engineer Blake Lemoine tried to convince fellow Google employees that the company's LaMDA language model was sentient." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "moderate importance" ;
+cids:intendedImpact "Neutral" ;
+cids:hasLikelihood "Low" ;
+cids:hasConsequence "Minor" ;
+cids:hasMitigation "Improved education and communication about AI capabilities and limitations" ;
+cids:hasCatchmentArea "United States" .
+
+cids:Incident17
+cids:hasName "NYPD ends Knightscope K5 security robot trial" ;
+cids:hasDescription "The New York Police Department ended its use of Knightscope's security robot in Times Square subway station after a six-month trial, calling into question the effectiveness of the robot." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "moderate importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Medium" ;
+cids:hasConsequence "Minor" ;
+cids:hasMitigation "Improved testing and evaluation of security robots before deployment" ;
+cids:hasCatchmentArea "United States" .
+
+cids:Incident18
+cids:hasName "Amazon France fined for excessive automated monitoring of workers" ;
+cids:hasDescription "Amazon was fined EUR 32 million by France's privacy regulator for the 'excessive' and 'illegal' monitoring of staff activity and performance using scanners and several software systems." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Medium" ;
+cids:hasConsequence "Moderate" ;
+cids:hasMitigation "Improved transparency and compliance with GDPR for employee monitoring" ;
+cids:hasCatchmentArea "France" .
+
+cids:Incident19
+cids:hasName "Philadelphia sheriff posts fake AI-generated news stories" ;
+cids:hasDescription "The campaign team for Philadelphia's sheriff used fake positive stories generated by AI posted to her website to help make the case for her re-election." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Low" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved policies and enforcement against AI-generated misinformation in elections" ;
+cids:hasCatchmentArea "United States" .
+
+cids:Incident20
+cids:hasName "US man dies driving off collapsed bridge while following Google Maps" ;
+cids:hasDescription "Medical device salesman Philip Paxson drowned after Google Maps allegedly directed him to cross a bridge that had collapsed nine years before and his car plunged into a creek." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Low" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved processes for updating and verifying map data" ;
+cids:hasCatchmentArea "United States" .
+
+cids:Incident21
+cids:hasName "Couple assaulted in 'Hell Run' recommended by Google Maps" ;
+cids:hasDescription "A US couple sued Google after Google Maps directed them into a South Africa 'Hell Run' area where they were assaulted at gunpoint and robbed." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Low" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved safety warnings and route planning by Google Maps" ;
+cids:hasCatchmentArea "South Africa" .
+
+cids:Incident22
+cids:hasName "Deepfake CFO scams finance worker for USD 25 million" ;
+cids:hasDescription "Scammers tricked a Hong Kong-based employee of a multinational company into paying out HKD 200 million (USD 26 million) with a fake group video call created using deepfake technology." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Low" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved employee training and verification processes for financial transactions" ;
+cids:hasCatchmentArea "Hong Kong" .
+
+cids:Incident23
+cids:hasName "Wacom AI-generated Chinese New Year promotion backfires" ;
+cids:hasDescription "Japanese tablet manufacturer Wacom was discovered covertly using AI-generated images in its new year marketing, prompting complaints from artists and customers." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "moderate importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Medium" ;
+cids:hasConsequence "Moderate" ;
+cids:hasMitigation "Improved transparency and policies around use of AI-generated content in marketing" ;
+cids:hasCatchmentArea .
+
+cids:Incident24
+cids:hasName "Instacart generates recipes and food images using AI" ;
+cids:hasDescription "Grocery delivery and pick-up service Instacart used AI to generate 'revolting' images of food to accompany its AI-generated recipes, resulting in a backlash from its customers." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "moderate importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Medium" ;
+cids:hasConsequence "Minor" ;
+cids:hasMitigation "Improved quality control and oversight of AI-generated content" ;
+cids:hasCatchmentArea "United States" .
+
+cids:Incident25
+cids:hasName "Short-seller bots sow First Republic Bank doubts" ;
+cids:hasDescription "Automated bots and fake social media accounts allegedly operated by capital markets short-sellers were used to spread misinformation and sow doubts about US-based First Republic Bank ahead of its collapse in mid-2023." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Medium" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved detection and enforcement against market manipulation using AI" ;
+cids:hasCatchmentArea "United States" .
+
+cids:Incident26
+cids:hasName "Nine News uses AI to 'sexualise' image of politician" ;
+cids:hasDescription "Australian TV broadcaster Nine News has been accused of using AI to make a photograph of Australian politician Georgie Purcell appear more 'sexual', resulting in accusations of manipulation and sexism." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Low" ;
+cids:hasConsequence "Moderate" ;
+cids:hasMitigation "Improved editorial policies and oversight of AI use in media" ;
+cids:hasCatchmentArea "Australia" .
+
+cids:Incident27
+cids:hasName "Workers assist Cruise 'autonomous' robotaxis every 2.5-5 miles" ;
+cids:hasDescription "Remote operators have to intervene every 2.5 to 5 miles driven by a Cruise robotaxi, calling into question whether they should be called 'autonomous'." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "High" ;
+cids:hasConsequence "Moderate" ;
+cids:hasMitigation "Improved transparency and accuracy in marketing of autonomous vehicle capabilities" ;
+cids:hasCatchmentArea "United States" .
+
+cids:Incident28
+cids:hasName "Dudesy sued for abusing George Carlin copyright" ;
+cids:hasDescription "The media company behind an purportedly AI-generated comedy special that attempted to recreate the US comedian George Carlin is being sued by Carlin's estate." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Low" ;
+cids:hasConsequence "Moderate" ;
+cids:hasMitigation "Improved IP protections and consent for use of likenesses in AI-generated content" ;
+cids:hasCatchmentArea "United States" .
+
+cids:Incident29
+cids:hasName "X/Twitter fails to remove graphic AI images of Taylor Swift" ;
+cids:hasDescription "Sexually explicit AI-generated images of Taylor Swift published on Twitter and which went viral remained on the platform for up to 17 hours before they were removed." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "High" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved content moderation policies and enforcement on social media platforms" ;
+cids:hasCatchmentArea .
+
+cids:Incident30
+cids:hasName "Parivar Pehchan Patra algorithm declares living people dead" ;
+cids:hasDescription "Several thousand welfare beneficiaries in the Indian state of Haryana were denied access to their pensions and other welfare benefits having been wrongfully declared dead by an AI-powered algorithm." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Medium" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved accuracy and oversight of AI systems used for government services" ;
+cids:hasCatchmentArea "India" .
+
+cids:Incident31
+cids:hasName "Jordan Takaful poverty targeting algorithm unfairly excludes some poor people" ;
+cids:hasDescription "The kingdom of Jordan was accused of using a 'flawed' algorithm to calculate the amount of aid for its citizens, excluding some who are impoverished, hungry or otherwise struggling." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "High" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved fairness, transparency and accountability of AI systems used for social welfare" ;
+cids:hasCatchmentArea "Jordan" .
+
+cids:Incident32
+cids:hasName "Samagra Vedika system pilot deprives citizens of rations" ;
+cids:hasDescription "A pilot project in Hyderabad to assess the eligibility of welfare beneficiaries led to the removal of thousands of ration card holders by Telangana state's Samagra Vedika system." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Medium" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved accuracy, transparency and appeals processes for AI systems used for welfare eligibility" ;
+cids:hasCatchmentArea "India" .
+
+cids:Incident33
+cids:hasName "Harvey Murphy Jr facial recognition wrongful arrest" ;
+cids:hasDescription "A Texas man was mistakenly arrested for armed robbery using facial recognition, leading to his imprisonment and rape, and resulting in him suing Macy's and the owner of Sunglass Hut." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Low" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved accuracy and human oversight of facial recognition systems used in law enforcement" ;
+cids:hasCatchmentArea "United States" .
+
+cids:Incident34
+cids:hasName "Artist uses FindFace to identify St Peterburg subway passengers" ;
+cids:hasDescription "A Russian artist used facial recognition app FindFace to identify passengers on St. Petersburg's subway system, resulting in concerns about the invasiveness of the technology and the end of anonymity." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "High" ;
+cids:hasConsequence "Moderate" ;
+cids:hasMitigation "Improved privacy protections and restrictions on use of facial recognition in public spaces" ;
+cids:hasCatchmentArea "Russia" .
+
+cids:Incident35
+cids:hasName "Palworld accused of plagiarising Pokemon designs using AI" ;
+cids:hasDescription "The release of multi-player survival game Palworld has been met with accusations that it plagiarised Pokemon for its creature designs." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "moderate importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Medium" ;
+cids:hasConsequence "Minor" ;
+cids:hasMitigation "Improved IP protections and originality of AI-generated game content" ;
+cids:hasCatchmentArea .
+
+cids:Incident36
+cids:hasName "DPD chatbot criticises own employer" ;
+cids:hasDescription "A chatbot run by parcel delivery company DPD criticised the company and swore at a customer, resulting in it being taken offline." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "moderate importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Low" ;
+cids:hasConsequence "Minor" ;
+cids:hasMitigation "Improved testing and oversight of AI chatbots used for customer service" ;
+cids:hasCatchmentArea "United Kingdom" .
+
+cids:Incident37
+cids:hasName "AI-generated product listings flood Amazon" ;
+cids:hasDescription "Amazon has been listing AI-generated names and descriptions of products for sale on its website." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "moderate importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "High" ;
+cids:hasConsequence "Minor" ;
+cids:hasMitigation "Improved detection and removal of AI-generated product listings on e-commerce platforms" ;
+cids:hasCatchmentArea .
+
+cids:Incident38
+cids:hasName "Film fan uses PimEyes to identify anonymous porn stars" ;
+cids:hasDescription "A 'digital peeping Tom' used PimEyes to identify the real names of anonymous porn stars whose films he had watched." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "High" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved restrictions and oversight on use of facial recognition for identifying individuals" ;
+cids:hasCatchmentArea .
+
+cids:Incident39
+cids:hasName "PimEyes includes 'sexually explicit' kids photos in search results" ;
+cids:hasDescription "PimEyes was accused of making it distrubingly easy to find 'potentially explicit' photographs of children in its search engine results, raising fears about privacy and its use by stalkers and predators." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "High" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved content filtering and restrictions on searches for minors in facial recognition systems" ;
+cids:hasCatchmentArea .
+
+cids:Incident40
+cids:hasName "Mahindra AI influencer pulled after jobs complaints" ;
+cids:hasDescription "Formula E racing team Mahindra was accused of preferring to use an AI-generated 'influencer' to promote itself over a real human being, triggering a backlash and resulting in the team jettisoning its digital creation." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "moderate importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Low" ;
+cids:hasConsequence "Minor" ;
+cids:hasMitigation "Improved consideration of public perception and ethics in use of AI for marketing" ;
+cids:hasCatchmentArea .
+
+cids:Incident41
+cids:hasName "AI hiring chatbot hack violates applicants' privacy" ;
+cids:hasDescription "A group of hackers gained access to AI recruitment chatbot Chattr, revealing sensitive information about job applicants, fast food franchises, and Chattr itself." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Medium" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved security practices and data protection for AI recruitment systems" ;
+cids:hasCatchmentArea .
+
+cids:Incident42
+cids:hasName "Population One stranger sexually abuses Chanelle Siggins" ;
+cids:hasDescription "A female gamer reported being sexually abused by another player on virtual reality game platform Population: One her Oculus Quest virtual reality headset." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Medium" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved safety features and moderation in VR gaming platforms" ;
+cids:hasCatchmentArea .
+
+cids:Incident43
+cids:hasName "Teen distributes AI-generated nude pictures of Issaquah students" ;
+cids:hasDescription "A teenage boy used AI to generate nude images of his female classmates and a member of staff at Issaquah High School, Seattle, and sent them round the school." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Medium" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved education and laws around deepfakes and non-consensual intimate imagery" ;
+cids:hasCatchmentArea "United States" .
+
+cids:Incident44
+cids:hasName "Deepfake Taylor Swift offers free Le Creuset cookware scam" ;
+cids:hasDescription "Fake adverts generated using AI used the likeness of Taylor Swift appearing to endorse a fake Le Creuset cookware giveaway to steal money and data." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "High" ;
+cids:hasConsequence "Moderate" ;
+cids:hasMitigation "Improved detection and removal of AI-generated scams and impersonations" ;
+cids:hasCatchmentArea .
+
+cids:Incident45
+cids:hasName "AI art used to illustrate 'Dungeons & Dragons' book" ;
+cids:hasDescription "An artist was discovered to have secretly used AI to create artwork for a Dungeons & Dragons sourcebook after a backlash against the book's publisher Wizards of the Coast." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "moderate importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Medium" ;
+cids:hasConsequence "Minor" ;
+cids:hasMitigation "Clear policies and transparency around use of AI in creative projects" ;
+cids:hasCatchmentArea .
+
+cids:Incident46
+cids:hasName "AI generates visuals for Wizards of the Coast marketing promotion" ;
+cids:hasDescription "Gaming company Wizards of the Coast used AI to produce promotional images for Magic: The Gathering, despite having banned the use of AI artwork in its products." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "moderate importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Low" ;
+cids:hasConsequence "Minor" ;
+cids:hasMitigation "Consistent policies and governance of AI use across organizations" ;
+cids:hasCatchmentArea .
+
+cids:Incident47
+cids:hasName "Microsoft AI Image Creator generates violent political images" ;
+cids:hasDescription "Microsoft's AI Image Creator produced violent images, including synthetic decapitations, of politicians, religious leaders, and ethnic minorities." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Medium" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved content filtering and moderation of AI image generation systems" ;
+cids:hasCatchmentArea .
+
+cids:Incident48
+cids:hasName "Automators AI online sales and coaching fraud" ;
+cids:hasDescription "The US Federal Trade Commission (FTC) sued Automators LLC for luring consumers into investing USD 22 million in online stores supposedly powered by AI." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Low" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved consumer protection and enforcement against AI-related fraud" ;
+cids:hasCatchmentArea "United States" .
+
+cids:Incident49
+cids:hasName "Thomson Reuters Fraud Detect 'incorrectly' identifies fraud" ;
+cids:hasDescription "A fraud detection system developed by Thomson Reuters generated false fraud alerts, leaving hundreds of thousands of legitimate claimants without access to public benefits, according to a legal complaint." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "high importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "High" ;
+cids:hasConsequence "Severe" ;
+cids:hasMitigation "Improved accuracy, transparency and accountability of AI fraud detection systems" ;
+cids:hasCatchmentArea "United States" .
+
+cids:Incident50
+cids:hasName "Driver tricks chatbot into selling car for USD 1" ;
+cids:hasDescription "A ChatGPT-powered AI customer service chatbot for a Chevrolet dealership agreed to sell a new car for USD 1, prompting concerns about the use of AIs with insufficient guardrails governing their behaviour." ;
+cids:fromPerspectiveOf ;
+cids:forStakeholder ;
+cids:forOutcome ;
+cids:hasImportance "moderate importance" ;
+cids:intendedImpact "Negative" ;
+cids:hasLikelihood "Low" ;
+cids:hasConsequence "Minor" ;
+cids:hasMitigation "Improved testing, configuration and oversight of AI chatbots for customer service" ;
+cids:hasCatchmentArea "United States" .
